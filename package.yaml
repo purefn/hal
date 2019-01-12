@@ -63,3 +63,4 @@ library:
     - containers
     - time
     - text
+    - case-insensitive
